@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mytest</string>
+    <string name="description_test">Это тест по деловому английскому</string>
+    <string name="greeting_heading">Проверьте ваше знание делового английского</string>
+    <string name="test_features">Узнайте свой уровень владения деловой перепиской на английском с помощью этого теста. Тест состоит из 30 вопросов, в каждом 4 варианта ответа. Только один из них правильный. Для прохождения теста потребуется около часа.</string>
+    <string name="start_button">Начать тест</string>
+    <string name="option_1">вариант 1</string>
+    <string name="option_2">вариант 2</string>
+    <string name="option_3">вариант 3</string>
+    <string name="option_4">вариант 4</string>
+    <string name="previous">назад</string>
+    <string name="next">далее</string>
+    <string name="description_spacer">Значок между номером и заданием вопроса</string>
+</resources>

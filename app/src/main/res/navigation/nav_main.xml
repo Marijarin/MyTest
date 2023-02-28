@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_main"
+    app:startDestination="@id/greetingFragment">
+
+    <fragment
+        android:id="@+id/greetingFragment"
+        android:name="ru.marijarin.mytest.mytest.activity.GreetingFragment"
+        android:label="GreetingFragment" >
+        <action
+            android:id="@+id/action_greetingFragment_to_testFragment"
+            app:destination="@id/testFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/resultFragment"
+        android:name="ru.marijarin.mytest.mytest.activity.ResultFragment"
+        android:label="ResultFragment" />
+    <fragment
+        android:id="@+id/testFragment"
+        android:name="ru.marijarin.mytest.mytest.activity.TestFragment"
+        android:label="TestFragment" >
+        <action
+            android:id="@+id/action_testFragment_to_resultFragment"
+            app:destination="@id/resultFragment" />
+    </fragment>
+</navigation>

@@ -1,0 +1,92 @@
+[
+  {
+    "number": 1,
+    "task": "Choose the correct item:\nThank you for your fax of 11th January requesting a single room.__ the accommodation you describe for the period you require.",
+    "optionOne": "We have reserved",
+    "optionTwo": "We would have reserved",
+    "optionThree": "We are reserving",
+    "optionFour": "We reserve",
+    "correctOption": "We have reserved"
+  },
+  {
+    "number": 2,
+    "task": "Choose the correct item:\nIf their after-sales service does not improve, we will stop __ from them.",
+    "optionOne": "to order",
+    "optionTwo": "ordering",
+    "optionThree": "to ordering",
+    "optionFour": "order",
+    "correctOption": "ordering"
+  },
+  {
+    "number": 3,
+    "task": "Choose the correct item:\nMy new computer crashed again this morning, so I must remember __ the after-sales service.",
+    "optionOne": "to call",
+    "optionTwo": "calling",
+    "optionThree": "call",
+    "optionFour": "to calling",
+    "correctOption": "to call"
+  },
+  {
+    "number": 4,
+    "task": "Choose the correct item:\nThey haven’t done any market research, so these figures __ be accurate.",
+    "optionOne": "can't",
+    "optionTwo": "are likely",
+    "optionThree": "might",
+    "optionFour": "must",
+    "correctOption": "can't"
+  },
+  {
+    "number": 5,
+    "task": "Choose the correct item:\nI am due to be in London next week __ business.",
+    "optionOne": "for",
+    "optionTwo": "by",
+    "optionThree": "on",
+    "optionFour": "to",
+    "correctOption": "on"
+  },
+  {
+    "number": 6,
+    "task": "Choose the correct item:\nI would like to confirm that I will be available to see you __ on Wednesday 10th at 3 p.m.",
+    "optionOne": "on my office",
+    "optionTwo": "at my office",
+    "optionThree": "to my office",
+    "optionFour": "for my office",
+    "correctOption": "at my office"
+  },
+  {
+    "number": 7,
+    "task": "Choose the correct item:\nThe documentation requested has been sent to you __ registered post.",
+    "optionOne": "in",
+    "optionTwo": "by",
+    "optionThree": "on",
+    "optionFour": "with",
+    "correctOption": "by"
+  },
+  {
+    "number": 8,
+    "task": "Choose the best answer:\nI __ to book a single room at your hotel for the next week.",
+    "optionOne": "would like",
+    "optionTwo": "want",
+    "optionThree": "require",
+    "optionFour": "would want",
+    "correctOption": "would like"
+  },
+  {
+    "number": 9,
+    "task": "Choose the best answer:\nI would like to order 100 fuses, model no. 3. __ these requirements, please send me your quotation.",
+    "optionOne": "If you are able to satisfy",
+    "optionTwo": "Should you be able to satisfy",
+    "optionThree": "If you satisfy",
+    "optionFour": "If you agree with",
+    "correctOption": "Should you be able to satisfy"
+  },
+  {
+    "number": 10,
+    "task": "Read the text and identify the type of the following document:\nOur company is the biggest manufacturer of steel fittings in Malaysia and we are interested in exporting fittings to Russia.\nWe would appreciate if you could send us a list of companies that sell this product in Russia.\n",
+    "optionOne": "Offer letter",
+    "optionTwo": "Letter of invitation",
+    "optionThree": "Letter of acknowledgement",
+    "optionFour": "Enquiry letter",
+    "correctOption": "Enquiry letter"
+  }
+]

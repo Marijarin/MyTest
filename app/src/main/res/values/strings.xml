@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Mytest</string>
+    <string name="greeting_heading">Test your Business English</string>
+    <string name="test_features">Discover your level in business correspondence with this test.\nThe test consists of 30 questions and is based on British English. Each question has 4 variants to answer.Only one of them is correct.\nIt usually takes about an hour to pass the test.</string>
+    <string name="description_test">This is a Business English test </string>
+    <string name="description_spacer">This is a spacer between a number and a task </string>
+    <string name="start_button">Start the test</string>
+    <string name="option_1">option 1</string>
+    <string name="option_2">option 2</string>
+    <string name="option_3">option 3</string>
+    <string name="option_4">option 4</string>
+    <string name="previous">former</string>
+    <string name="next">next</string>
+</resources>
